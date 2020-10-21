@@ -20,6 +20,8 @@
 
 /* this modification was done by Maurizio today*/
 
+/* Patrick added this line on his computer */
+
 #include "stdafx.h"
 #include "StableFit.h"
 #include <algorithm>
