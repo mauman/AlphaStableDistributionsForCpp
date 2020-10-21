@@ -18,6 +18,8 @@
 //OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 //SOFTWARE.
 
+/* this modification was done by Maurizio today*/
+
 #include "stdafx.h"
 #include "StableFit.h"
 #include <algorithm>
